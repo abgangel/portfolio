@@ -16,7 +16,7 @@
 
 </template>
 
-<scrip>
+<script>
 export default {
     methods: {
         scroll(refName) {
@@ -27,7 +27,7 @@ export default {
 
 
 }
-</scrip>
+</script>
 
 
 <style>
