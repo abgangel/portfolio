@@ -143,15 +143,15 @@
           <h1>Información de contacto</h1>
           <v-btn icon="fas fa-map-marker-alt" class="mt-10" variant=”outlined”></v-btn><br />
           <span class="text-caption">Mi dirección; Dirección: 5a Av. entre calles 2 y 4, Col. Centro</span><br />
-	<v-btn icon=fas fa-phone-alt” class=”mt-10” variant=”outlined”></v-btn><br />
-	<span class=”text-caption”>984 136 1384</span><br />
-	<span class=”text-caption”>984 136 1384</span><br />
-       	<v-btn icon=fas fa-envelope” class=”mt-10” variant=”outlined”></v-btn><br />
-	<span class=”text-caption”>milicangelkuyoc@gmail.com </span><br />
-	<span class=”text-caption”>milicangelkuyoc@gmail.com </span><br />
+	        <v-btn icon="fas fa-phone-alt” class=”mt-10” variant=”outlined”></v-btn><br />
+	        <span class=”text-caption”>984 136 1384</span><br />
+	        <span class=”text-caption”>984 136 1384</span><br />
+       	  <v-btn icon=fas fa-envelope” class=”mt-10” variant=”outlined”></v-btn><br />
+	        <span class=”text-caption”>milicangelkuyoc@gmail.com </span><br />
+	        <span class=”text-caption”>milicangelkuyoc@gmail.com </span><br />
           </div>
         </v-col>
-    <v-col cols="12" sm="8">
+      <v-col cols="12 sm="8">
       <h1 class="mt-8">Send your message!!!</h1>
       <divider></divider>
       <span class="text-caption">Lorem</span>
